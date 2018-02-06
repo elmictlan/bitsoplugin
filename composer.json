@@ -1,0 +1,15 @@
+{
+    "name": "elmictlan/bitsoplugin",
+    "description": "bitsoplugin for me",
+    "authors": [
+        {
+            "name": "Ricardo Rincón",
+            "email": "ricardomangore@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : "ElMictlan\\BitsoPlugin\\" : "src"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
