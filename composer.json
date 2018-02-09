@@ -8,7 +8,7 @@
         }
     ],
     "autoload" : {
-        "psr-4" : "ElMictlan\\BitsoPlugin\\" : "src"
+        "psr-4" : {"ElMictlan\\BitsoPlugin\\" : "src"}
     },
     "minimum-stability": "dev",
     "require": {}
